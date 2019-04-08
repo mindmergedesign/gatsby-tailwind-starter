@@ -1,0 +1,5 @@
+<Container>
+  <StyledLink to="/">
+    <Title>{siteTitle}</Title>
+  </StyledLink>
+</Container>
