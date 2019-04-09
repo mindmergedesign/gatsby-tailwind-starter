@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Sitechef',
+    title: 'Gatsby Tailwind/Styled/Rebass',
   },
   plugins: [
     'gatsby-plugin-tailwindcss',
@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Sitechef',
+        name: 'Gatsby Tailwind/Styled/Rebass',
         short_name: 'starter',
         start_url: '/',
         background_color: '#663399',
